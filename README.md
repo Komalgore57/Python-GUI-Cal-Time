@@ -1,2 +1,3 @@
 # Python-GUI-Cal-Time
 It is GUI Project that will calculate time speed by you on Earth.....
+If you will open the cal zip file then you will find there is one shortcut that is executable file of cal program.
